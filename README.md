@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Anuta Atom K8s Deployment and Upgrade...
 - 🌱 I’m currently learning Vault, Docker, K8s, Helm, Linux,  Ansible, Terraform, AWS...
-- Other Skills: OOP'S, DSA, System Design
+- Other Skills: Java, Python, OOP'S, DSA, CN, DBMS, System Design, Shell
 <br>
 
 ### Intrests
