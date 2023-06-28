@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi  👋🏻, I'm Ellesh
 
-<!--
-**kellesh/kellesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **I'm a Software Engineer with Anuta Networks**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Anuta Atom K8s Deployment and Upgrade...
+- 🌱 I’m currently learning Vault, Docker, K8s, Helm, Linux,  Ansible, Terraform, AWS...
+- Other Skills: OOP'S, DSA, System Design
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Intrests
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,gitlab,jenkins,bash,linux,docker,kubernetes,ansible,aws,&theme=light)](https://skillicons.dev)
+
+## **Connect with Me On Social Media** 🤝🏻 &nbsp;
+
+<h3 align="left">
+<a href="https://www.linkedin.com/in/ellesh-keloth-670a10190/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<br>
+
+## Profile Views
+
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=kellesh" alt="Ellesh" /> <h2>
