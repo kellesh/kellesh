@@ -1,6 +1,6 @@
-# Hi  👋🏻, I'm Ellesh
+# Hi  👋🏻, I'm Ellesh Keloth
 
-## **I'm a Software Engineer with Anuta Networks**
+## **I'm a Software Engineer**
 
 - 🔭 I’m currently working on Anuta Atom K8s Deployment and Upgrade...
 - 🌱 I’m currently learning Vault, Docker, K8s, Helm, Linux,  Ansible, Terraform, AWS...
@@ -18,6 +18,9 @@
 <br>
 
 ## Projects Worked  
+
+## Education
+Bachelors and Masters Degree form IIT Madras 2015-2020
 
 ## Profile Views
 
