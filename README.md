@@ -1,13 +1,16 @@
-<table align="center" width="80%">
-  <tr>
-    <td>
+<div style="display: table; width: 100%;">
+  <!-- Left column (empty margin) -->
+  <div style="display: table-cell; width: 20%;"></div>
+
+  <!-- Middle column (main content, 60%) -->
+  <div style="display: table-cell; width: 60%;">
 
 ---
 
 # 👋 Hi, I'm Ellesh Keloth  
 
 🎓 From **IIT Madras** to building **apps that scale**.  
-🚀 Cloud-Native Engineering | Backend Specialist | Kubernetes Certified (CKA & CKAD)  
+🚀 Cloud-Native Engineer | Backend Specialist | Kubernetes Certified (CKA & CKAD)  
 📍 India  
 🔗 [LinkedIn](https://www.linkedin.com/in/elleshkeloth) | [LeetCode](https://leetcode.com/elleshkeloth) | [Scaler](https://www.scaler.com)  
 
@@ -15,7 +18,7 @@
 
 ## 🛠️ Skills & Expertise
 - **Languages**: Java, Python, SQL, C++  
-- **Frameworks**: Spring Boot, Hibernate, Data JPA  
+- **Frameworks**: Spring Boot, Hibernate, Data JPA, kafka   
 - **Cloud & Containers**: Kubernetes, Docker, Helm, AWS, GCP, Azure  
 - **Security**: HashiCorp Vault, AWS KMS  
 - **DevOps**: Jenkins, CI/CD, Git, Bash/Shell, Linux  
@@ -80,6 +83,8 @@
 
 ✨ *Passionate about building secure, scalable systems and contributing to the cloud-native ecosystem.*
 
+  </div>
 
-  </tr>
-</table>
+  <!-- Right column (empty margin) -->
+  <div style="display: table-cell; width: 20%;"></div>
+</div>
