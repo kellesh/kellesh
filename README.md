@@ -12,7 +12,7 @@
 🎓 From **IIT Madras** to building **apps that scale**.  
 🚀 Cloud-Native Engineer | Backend Specialist | Kubernetes Certified (CKA & CKAD)  
 📍 India  
-🔗 [LinkedIn](https://www.linkedin.com/in/elleshkeloth) | [LeetCode](https://leetcode.com/elleshkeloth) | [Scaler](https://www.scaler.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kellesh) | [LeetCode](https://leetcode.com/kellesh) | [Scaler](https://www.scaler.com/academy/profile/65dbf281f657)  
 
 ---
 
